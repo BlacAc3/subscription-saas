@@ -1,3 +1,4 @@
 .env
 venv/
 projectSetup.md
+*/**/__pycache__/
